@@ -1,0 +1,4 @@
+patient_id,trial_phase,adverse_event,severity,date_reported
+1001,Phase 1,None,None,2024-01-15
+1002,Phase 2,Mild rash,Low,2024-02-10
+1003,Phase 3,Arrhythmia,High,2024-03-05
