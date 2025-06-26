@@ -36,5 +36,21 @@ Clinical trials are complex, multi-phase processes requiring tight coordination 
 - Develop automated notifications for team status updates.
 
 ---
+## 🛠️ Usage
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YourUsername/clinical-trial-agile-tracker.git
+   cd clinical-trial-agile-tracker
+
+2. Create and activate a virtual environment:
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the sprint points summary script:
+python src/sprint_points_summary.py
 
 Feel free to contribute or raise issues to improve this tracker!
